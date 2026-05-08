@@ -1,0 +1,964 @@
+{
+  "version": "2.11",
+  "children": [
+    {
+      "type": "frame",
+      "id": "KY7Iv",
+      "x": -712.5,
+      "y": 1468,
+      "name": "网络较差",
+      "clip": true,
+      "width": 1440,
+      "height": 900,
+      "fill": "#ffffffff",
+      "cornerRadius": 8,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 8,
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "Z9xF9C",
+          "name": "Sonner / Icon",
+          "clip": true,
+          "width": 36,
+          "height": 36,
+          "fill": {
+            "type": "color",
+            "color": "#ffffffff",
+            "enabled": false
+          },
+          "stroke": {
+            "align": "inside",
+            "thickness": 1.8000000715255737
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "path",
+              "id": "N22eX",
+              "x": 18,
+              "y": 4.5,
+              "name": "Vector",
+              "opacity": 0.10000000149011612,
+              "geometry": "M0 0l0 2.5",
+              "width": 0,
+              "height": 4.5,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "Q6HcuR",
+              "x": 11.25,
+              "y": 6.309000015258789,
+              "name": "Vector",
+              "opacity": 0.20000000298023224,
+              "geometry": "M0 0l1.25 2.165",
+              "width": 2.25,
+              "height": 3.8970000743865967,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "pewqF",
+              "x": 6.309000015258789,
+              "y": 11.25,
+              "name": "Vector",
+              "opacity": 0.30000001192092896,
+              "geometry": "M0 0l2.165 1.25",
+              "width": 3.8970000743865967,
+              "height": 2.25,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "b8kLK",
+              "x": 4.5,
+              "y": 18,
+              "name": "Vector",
+              "opacity": 0.4000000059604645,
+              "geometry": "M0 0l2.5 0",
+              "width": 4.5,
+              "height": 0,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "PZLuP",
+              "x": 6.309000015258789,
+              "y": 22.5,
+              "name": "Vector",
+              "opacity": 0.5,
+              "geometry": "M0 1.25l2.165-1.25",
+              "width": 3.8970000743865967,
+              "height": 2.25,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "v94lj",
+              "x": 11.25,
+              "y": 25.79399871826172,
+              "name": "Vector",
+              "opacity": 0.550000011920929,
+              "geometry": "M0 2.165l1.25-2.165",
+              "width": 2.25,
+              "height": 3.8970017433166504,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "XWeQF",
+              "x": 18,
+              "y": 27.000001907348633,
+              "name": "Vector",
+              "opacity": 0.6000000238418579,
+              "geometry": "M0 2.5l0-2.5",
+              "width": 0,
+              "height": 4.5,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "ofh63",
+              "x": 22.5,
+              "y": 25.79399871826172,
+              "name": "Vector",
+              "opacity": 0.6499999761581421,
+              "geometry": "M1.25 2.165l-1.25-2.165",
+              "width": 2.25,
+              "height": 3.8970017433166504,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "e0sGSW",
+              "x": 25.79399871826172,
+              "y": 22.5,
+              "name": "Vector",
+              "opacity": 0.699999988079071,
+              "geometry": "M2.165 1.25l-2.165-1.25",
+              "width": 3.8970017433166504,
+              "height": 2.25,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "x701od",
+              "x": 27.000001907348633,
+              "y": 18,
+              "name": "Vector",
+              "opacity": 0.800000011920929,
+              "geometry": "M2.5 0l-2.5 0",
+              "width": 4.5,
+              "height": 0,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "Z50AU",
+              "x": 25.79411506652832,
+              "y": 11.250293731689453,
+              "name": "Vector",
+              "opacity": 0.8999999761581421,
+              "geometry": "M2.16503 0l-2.16503 1.24995",
+              "width": 3.8970584869384766,
+              "height": 2.249903440475464,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "SVOPO",
+              "x": 22.5,
+              "y": 6.308655261993408,
+              "name": "Vector",
+              "geometry": "M1.25 0l-1.25 2.16506",
+              "width": 2.25,
+              "height": 3.8971142768859863,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "g9wMlE",
+          "name": "页面加载中",
+          "fill": "#000000ff",
+          "content": "页面加载中",
+          "lineHeight": 1.4,
+          "fontFamily": "Noto Sans SC",
+          "fontSize": 20,
+          "fontWeight": "500"
+        },
+        {
+          "type": "text",
+          "id": "SlYsr",
+          "name": "当前网络状态较差，请耐心等待",
+          "fill": "#737373ff",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "当前网络状态较差，请耐心等待",
+          "lineHeight": 1.4285714285714286,
+          "textAlign": "center",
+          "fontFamily": "Noto Sans SC",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "bskYu",
+      "x": -2232,
+      "y": 1468,
+      "name": "加载中",
+      "clip": true,
+      "width": 1440,
+      "height": 900,
+      "fill": "#ffffffff",
+      "cornerRadius": 8,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 8,
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "zbQ2h",
+          "name": "Sonner / Icon",
+          "clip": true,
+          "width": 36,
+          "height": 36,
+          "fill": {
+            "type": "color",
+            "color": "#ffffffff",
+            "enabled": false
+          },
+          "stroke": {
+            "align": "inside",
+            "thickness": 1.8000000715255737
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "path",
+              "id": "m2kTk8",
+              "x": 18,
+              "y": 4.5,
+              "name": "Vector",
+              "opacity": 0.10000000149011612,
+              "geometry": "M0 0l0 2.5",
+              "width": 0,
+              "height": 4.5,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "XDExL",
+              "x": 11.25,
+              "y": 6.309000015258789,
+              "name": "Vector",
+              "opacity": 0.20000000298023224,
+              "geometry": "M0 0l1.25 2.165",
+              "width": 2.25,
+              "height": 3.8970000743865967,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "eqHoj",
+              "x": 6.309000015258789,
+              "y": 11.25,
+              "name": "Vector",
+              "opacity": 0.30000001192092896,
+              "geometry": "M0 0l2.165 1.25",
+              "width": 3.8970000743865967,
+              "height": 2.25,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "Nv6zL",
+              "x": 4.5,
+              "y": 18,
+              "name": "Vector",
+              "opacity": 0.4000000059604645,
+              "geometry": "M0 0l2.5 0",
+              "width": 4.5,
+              "height": 0,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "eoVSU",
+              "x": 6.309000015258789,
+              "y": 22.5,
+              "name": "Vector",
+              "opacity": 0.5,
+              "geometry": "M0 1.25l2.165-1.25",
+              "width": 3.8970000743865967,
+              "height": 2.25,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "O83NWK",
+              "x": 11.25,
+              "y": 25.79399871826172,
+              "name": "Vector",
+              "opacity": 0.550000011920929,
+              "geometry": "M0 2.165l1.25-2.165",
+              "width": 2.25,
+              "height": 3.8970017433166504,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "LJ3lG",
+              "x": 18,
+              "y": 27.000001907348633,
+              "name": "Vector",
+              "opacity": 0.6000000238418579,
+              "geometry": "M0 2.5l0-2.5",
+              "width": 0,
+              "height": 4.5,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "O79nmB",
+              "x": 22.5,
+              "y": 25.79399871826172,
+              "name": "Vector",
+              "opacity": 0.6499999761581421,
+              "geometry": "M1.25 2.165l-1.25-2.165",
+              "width": 2.25,
+              "height": 3.8970017433166504,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "Kd3Q1",
+              "x": 25.79399871826172,
+              "y": 22.5,
+              "name": "Vector",
+              "opacity": 0.699999988079071,
+              "geometry": "M2.165 1.25l-2.165-1.25",
+              "width": 3.8970017433166504,
+              "height": 2.25,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "OaMfk",
+              "x": 27.000001907348633,
+              "y": 18,
+              "name": "Vector",
+              "opacity": 0.800000011920929,
+              "geometry": "M2.5 0l-2.5 0",
+              "width": 4.5,
+              "height": 0,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "dLZ9F",
+              "x": 25.79411506652832,
+              "y": 11.250293731689453,
+              "name": "Vector",
+              "opacity": 0.8999999761581421,
+              "geometry": "M2.16503 0l-2.16503 1.24995",
+              "width": 3.8970584869384766,
+              "height": 2.249903440475464,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            },
+            {
+              "type": "path",
+              "id": "N97GkR",
+              "x": 22.5,
+              "y": 6.308655261993408,
+              "name": "Vector",
+              "geometry": "M1.25 0l-1.25 2.16506",
+              "width": 2.25,
+              "height": 3.8971142768859863,
+              "stroke": {
+                "align": "center",
+                "thickness": 2.3940000534057617,
+                "join": "round",
+                "cap": "round",
+                "fill": "#6f6f6fff"
+              }
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "dnzzA",
+          "name": "正在加载无界AI",
+          "fill": "#000000ff",
+          "content": "正在加载无界AI",
+          "lineHeight": 1.4,
+          "fontFamily": "Noto Sans SC",
+          "fontSize": 20,
+          "fontWeight": "500"
+        },
+        {
+          "type": "text",
+          "id": "VgTnH",
+          "x": 0,
+          "y": 480,
+          "name": "当前网络状态较差，请耐心等待",
+          "enabled": false,
+          "opacity": 0,
+          "fill": "#737373ff",
+          "textGrowth": "fixed-width",
+          "width": "fill_container(1440)",
+          "content": "当前网络状态较差，请耐心等待",
+          "lineHeight": 1.4285714285714286,
+          "textAlign": "center",
+          "fontFamily": "Noto Sans SC",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "b9pG5",
+      "x": 807,
+      "y": 1468,
+      "name": "加载失败",
+      "clip": true,
+      "width": 1440,
+      "height": 900,
+      "fill": "#ffffffff",
+      "cornerRadius": 8,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "children": [
+        {
+          "type": "frame",
+          "id": "V96Q4",
+          "name": "Pro Blocks / Empty Content",
+          "width": "fill_container",
+          "height": "fill_container",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": {
+              "type": "color",
+              "color": "#e5e5e5ff",
+              "enabled": false
+            }
+          },
+          "layout": "vertical",
+          "gap": 24,
+          "padding": 24,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "llle4",
+              "name": "Icon Wrapper",
+              "width": 48,
+              "height": 48,
+              "fill": "#ffffffff",
+              "cornerRadius": 8,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#e5e5e5ff"
+              },
+              "effect": {
+                "type": "shadow",
+                "shadowType": "outer",
+                "color": "#0000000d",
+                "offset": {
+                  "x": 0,
+                  "y": 1
+                },
+                "blur": 1.75
+              },
+              "gap": 8,
+              "padding": 8,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "AiQga",
+                  "name": "Icon / Inbox",
+                  "clip": true,
+                  "width": 24,
+                  "height": 24,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "path",
+                      "id": "BY91U",
+                      "x": 1.98193359375,
+                      "y": 2.986083984375,
+                      "name": "Vector",
+                      "geometry": "M19.74799 15.0139l-8-14c-0.17443-0.3078-0.42739-0.56381-0.73307-0.74193-0.30568-0.17812-0.65314-0.27197-1.00692-0.27197-0.35379 0-0.70124 0.09385-1.00693 0.27197-0.30568 0.17812-0.55864 0.43414-0.73307 0.74193l-8 14c-0.17632 0.30536-0.26877 0.6519-0.268 1.00451 0.00078 0.35261 0.09477 0.69874 0.27244 1.00331 0.17767 0.30457 0.4327 0.55676 0.73925 0.73101 0.30655 0.17424 0.65371 0.26434 1.00631 0.26117l16 0c0.3509-0.00036 0.69553-0.09303 0.99928-0.26872 0.30375-0.17568 0.55594-0.42819 0.73123-0.73217 0.17529-0.30398 0.26753-0.64873 0.26743-0.99963-0.00009-0.3509-0.0925-0.6956-0.26795-0.99948z m-9.72992-8.99998l0 4m0 4l0.01 0",
+                      "width": 20.015945434570312,
+                      "height": 18.01397705078125,
+                      "stroke": {
+                        "align": "center",
+                        "thickness": 2,
+                        "join": "round",
+                        "cap": "round",
+                        "fill": "#0a0a0aff"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "Or2Jb",
+              "name": "Flex Vertical",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 8,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "R7dvJR",
+                  "name": "No databases added",
+                  "fill": "#0a0a0aff",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "页面加载失败，请稍后重试",
+                  "lineHeight": 1.4,
+                  "textAlign": "center",
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 20,
+                  "fontWeight": "500"
+                },
+                {
+                  "type": "text",
+                  "id": "ZCM7L",
+                  "name": "Read and write directly to databases and stores from your projects.",
+                  "fill": "#737373ff",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "错误代码：20260101",
+                  "lineHeight": 1.4285714285714286,
+                  "textAlign": "center",
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "sTnZY",
+              "name": "Flex",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 12,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "y0UewA",
+                  "x": 102,
+                  "y": 0,
+                  "name": "Button",
+                  "enabled": false,
+                  "height": 36,
+                  "fill": "#171717ff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#0000000d",
+                    "offset": {
+                      "x": 0,
+                      "y": 1
+                    },
+                    "blur": 1.75
+                  },
+                  "gap": 8,
+                  "padding": [
+                    8,
+                    16
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "nhNKi",
+                      "x": 16,
+                      "y": 10,
+                      "name": "Icon / Circle",
+                      "enabled": false,
+                      "clip": true,
+                      "width": 16,
+                      "height": 16,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "ivhTm",
+                          "x": 1.3333333730697632,
+                          "y": 1.3333333730697632,
+                          "name": "Vector",
+                          "geometry": "M20 10c0 5.52285-4.47715 10-10 10-5.52285 0-10-4.47715-10-10 0-5.52285 4.47715-10 10-10 5.52285 0 10 4.47715 10 10z",
+                          "width": 13.333333015441895,
+                          "height": 13.333333015441895,
+                          "stroke": {
+                            "align": "center",
+                            "thickness": 1.3300000429153442,
+                            "join": "round",
+                            "cap": "round",
+                            "fill": "#fafafaff"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "OPlhx",
+                      "name": "Button",
+                      "fill": "#fafafaff",
+                      "content": "重新加载",
+                      "lineHeight": 1.4285714285714286,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "Noto Sans SC",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "frame",
+                      "id": "FWAK4",
+                      "x": 93,
+                      "y": 10,
+                      "name": "Icon / Circle",
+                      "enabled": false,
+                      "clip": true,
+                      "width": 16,
+                      "height": 16,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "kagip",
+                          "x": 1.3333333730697632,
+                          "y": 1.3333333730697632,
+                          "name": "Vector",
+                          "geometry": "M20 10c0 5.52285-4.47715 10-10 10-5.52285 0-10-4.47715-10-10 0-5.52285 4.47715-10 10-10 5.52285 0 10 4.47715 10 10z",
+                          "width": 13.333333015441895,
+                          "height": 13.333333015441895,
+                          "stroke": {
+                            "align": "center",
+                            "thickness": 1.3300000429153442,
+                            "join": "round",
+                            "cap": "round",
+                            "fill": "#fafafaff"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "gdidV",
+                  "name": "Button",
+                  "height": 36,
+                  "fill": "#ffffffff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e5e5e5ff"
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#0000000d",
+                    "offset": {
+                      "x": 0,
+                      "y": 1
+                    },
+                    "blur": 1.75
+                  },
+                  "gap": 8,
+                  "padding": [
+                    8,
+                    16
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "A7Jf84",
+                      "x": 16,
+                      "y": 10,
+                      "name": "Icon / Circle",
+                      "enabled": false,
+                      "clip": true,
+                      "width": 16,
+                      "height": 16,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "oL3B8",
+                          "x": 1.3333333730697632,
+                          "y": 1.3333333730697632,
+                          "name": "Vector",
+                          "geometry": "M20 10c0 5.52285-4.47715 10-10 10-5.52285 0-10-4.47715-10-10 0-5.52285 4.47715-10 10-10 5.52285 0 10 4.47715 10 10z",
+                          "width": 13.333333015441895,
+                          "height": 13.333333015441895,
+                          "stroke": {
+                            "align": "center",
+                            "thickness": 1.3300000429153442,
+                            "join": "round",
+                            "cap": "round",
+                            "fill": "#0a0a0aff"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "R9Ul0",
+                      "name": "Button",
+                      "fill": "#0a0a0aff",
+                      "content": "重新加载",
+                      "lineHeight": 1.4285714285714286,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "Noto Sans SC",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "frame",
+                      "id": "xCZi5",
+                      "x": 93,
+                      "y": 10,
+                      "name": "Icon / Circle",
+                      "enabled": false,
+                      "clip": true,
+                      "width": 16,
+                      "height": 16,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "xib5D",
+                          "x": 1.3333333730697632,
+                          "y": 1.3333333730697632,
+                          "name": "Vector",
+                          "geometry": "M20 10c0 5.52285-4.47715 10-10 10-5.52285 0-10-4.47715-10-10 0-5.52285 4.47715-10 10-10 5.52285 0 10 4.47715 10 10z",
+                          "width": 13.333333015441895,
+                          "height": 13.333333015441895,
+                          "stroke": {
+                            "align": "center",
+                            "thickness": 1.3300000429153442,
+                            "join": "round",
+                            "cap": "round",
+                            "fill": "#0a0a0aff"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
