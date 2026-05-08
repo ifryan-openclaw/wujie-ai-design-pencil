@@ -10414,66 +10414,80 @@
                     "align": "inside",
                     "thickness": 1
                   },
-                  "layout": "vertical",
-                  "alignItems": "center",
                   "children": [
                     {
                       "type": "frame",
-                      "id": "wyCtC",
-                      "name": "TabTemp",
-                      "width": 1184,
+                      "id": "D9bIok",
+                      "name": "tabItem",
+                      "width": 160,
+                      "height": "fill_container",
                       "stroke": {
                         "align": "inside",
                         "thickness": {
-                          "bottom": 1
+                          "right": 1
                         },
                         "fill": "#e5e5e5ff"
                       },
+                      "layout": "vertical",
                       "padding": [
-                        0,
-                        12
+                        8,
+                        0
                       ],
-                      "alignItems": "center",
                       "children": [
                         {
                           "type": "frame",
-                          "id": "D9bIok",
-                          "name": "tabItem",
+                          "id": "rdgch",
+                          "name": "Pro Blocks / Tab Nav Link",
                           "width": "fill_container",
+                          "cornerRadius": 8,
                           "stroke": {
                             "align": "inside",
-                            "thickness": 1
+                            "thickness": {
+                              "left": 3
+                            },
+                            "fill": {
+                              "type": "color",
+                              "color": "#171717ff",
+                              "enabled": false
+                            }
                           },
-                          "alignItems": "center",
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
                           "children": [
                             {
                               "type": "frame",
-                              "id": "rdgch",
+                              "id": "IOz87o",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "fill": "#f5f5f5ff",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": {
-                                  "bottom": 2
+                                  "left": 3
                                 },
-                                "fill": "#171717ff"
+                                "fill": {
+                                  "type": "color",
+                                  "color": "#171717ff",
+                                  "enabled": false
+                                }
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "tykZr",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -10496,32 +10510,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "s4RUr",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "s4RUr",
+                              "id": "R9UiOu",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "T7Enz",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -10544,32 +10574,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "y1pb4X",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "y1pb4X",
+                              "id": "LlETrh",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "hQ3Xk",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -10592,32 +10638,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "Y6zotI",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "Y6zotI",
+                              "id": "R5nqa0",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "b0Tow",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -10640,32 +10702,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "ktgBZ",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "ktgBZ",
+                              "id": "q6ec97",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "qoUNW",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -10688,32 +10766,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "BDADD",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "BDADD",
+                              "id": "RSuaK1",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "H87x0f",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -10736,32 +10830,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "lT5Qq",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "lT5Qq",
+                              "id": "4KTwlG",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "WZTER",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -10784,32 +10894,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "fpXJ2",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "fpXJ2",
+                              "id": "9Xrz23",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "DcQlQ",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -10834,20 +10960,6 @@
                               ]
                             }
                           ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "lVx1x",
-                          "name": "Slot",
-                          "clip": true,
-                          "width": "fit_content(120)",
-                          "height": "fill_container",
-                          "stroke": {
-                            "align": "inside",
-                            "thickness": 1
-                          },
-                          "gap": 8,
-                          "alignItems": "center"
                         }
                       ]
                     },
@@ -27347,56 +27459,74 @@
                     "align": "inside",
                     "thickness": 1
                   },
-                  "layout": "vertical",
-                  "alignItems": "center",
                   "children": [
                     {
                       "type": "frame",
-                      "id": "cDVii",
-                      "name": "TabTemp",
-                      "width": 1184,
+                      "id": "O5WvtR",
+                      "name": "tabItem",
+                      "width": 160,
+                      "height": "fill_container",
                       "stroke": {
                         "align": "inside",
                         "thickness": {
-                          "bottom": 1
+                          "right": 1
                         },
                         "fill": "#e5e5e5ff"
                       },
+                      "layout": "vertical",
                       "padding": [
-                        0,
-                        12
+                        8,
+                        0
                       ],
-                      "alignItems": "center",
                       "children": [
                         {
                           "type": "frame",
-                          "id": "O5WvtR",
-                          "name": "tabItem",
+                          "id": "rXivp",
+                          "name": "Frame 1321317579",
                           "width": "fill_container",
+                          "cornerRadius": 8,
                           "stroke": {
                             "align": "inside",
-                            "thickness": 1
+                            "thickness": {
+                              "left": 3
+                            },
+                            "fill": {
+                              "type": "color",
+                              "color": "#171717ff",
+                              "enabled": false
+                            }
                           },
-                          "alignItems": "center",
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
                           "children": [
                             {
                               "type": "frame",
                               "id": "npI9t",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "fill": "#f5f5f5ff",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": {
-                                  "bottom": 2
+                                  "left": 3
                                 },
-                                "fill": "#171717ff"
+                                "fill": {
+                                  "type": "color",
+                                  "color": "#171717ff",
+                                  "enabled": false
+                                }
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
@@ -27429,32 +27559,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "ykBwK",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "ykBwK",
+                              "id": "ogJEtn",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "J2ib1",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -27477,32 +27623,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "q7Gjb",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "q7Gjb",
+                              "id": "Gp4jqW",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "Nc2nm",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -27525,32 +27687,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "nJnHX",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "nJnHX",
+                              "id": "kj4ZTI",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "VhOqg",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -27573,32 +27751,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "zrAQf",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "zrAQf",
+                              "id": "899I1c",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "u4s39I",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -27621,32 +27815,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "m7t0l",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "m7t0l",
+                              "id": "4JEv9n",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "LSrgo",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -27669,32 +27879,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "A2kFC",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "A2kFC",
+                              "id": "pvndbd",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "kvCYh",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -27717,32 +27943,48 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "IqUAb",
+                          "name": "Pro Blocks / Tab Nav Link",
+                          "width": "fill_container",
+                          "cornerRadius": 8,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 8,
+                          "padding": [
+                            0,
+                            12
+                          ],
+                          "children": [
                             {
                               "type": "frame",
-                              "id": "IqUAb",
+                              "id": "QL2wlk",
                               "name": "Pro Blocks / Tab Nav Link",
+                              "width": "fill_container",
+                              "cornerRadius": 8,
                               "stroke": {
                                 "align": "inside",
                                 "thickness": 1
                               },
+                              "layout": "vertical",
                               "gap": 8,
                               "padding": [
-                                6,
-                                0
+                                0,
+                                12
                               ],
-                              "justifyContent": "center",
-                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "frame",
                                   "id": "DPY7E",
                                   "name": "Text Wrapper",
                                   "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1
-                                  },
                                   "gap": 8,
                                   "padding": [
                                     8,
@@ -27767,20 +28009,6 @@
                               ]
                             }
                           ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "nOt4D",
-                          "name": "Slot",
-                          "clip": true,
-                          "width": "fit_content(120)",
-                          "height": "fill_container",
-                          "stroke": {
-                            "align": "inside",
-                            "thickness": 1
-                          },
-                          "gap": 8,
-                          "alignItems": "center"
                         }
                       ]
                     },
