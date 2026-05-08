@@ -12,7 +12,7 @@
       "fill": {
         "type": "image",
         "enabled": true,
-        "url": "images/LoginBG.png",
+        "url": "../images/LoginBG.png",
         "mode": "fill"
       },
       "stroke": {
@@ -8577,7 +8577,7 @@
       "fill": {
         "type": "image",
         "enabled": true,
-        "url": "images/LoginBG.png",
+        "url": "../images/LoginBG.png",
         "mode": "fill"
       },
       "stroke": {
@@ -17228,7 +17228,7 @@
       "fill": {
         "type": "image",
         "enabled": true,
-        "url": "images/LoginBG.png",
+        "url": "../images/LoginBG.png",
         "mode": "fill"
       },
       "stroke": {
@@ -17795,7 +17795,7 @@
       "fill": {
         "type": "image",
         "enabled": true,
-        "url": "images/LoginBG.png",
+        "url": "../images/LoginBG.png",
         "mode": "fill"
       },
       "stroke": {
@@ -19130,7 +19130,7 @@
       "fill": {
         "type": "image",
         "enabled": true,
-        "url": "images/LoginBG.png",
+        "url": "../images/LoginBG.png",
         "mode": "fill"
       },
       "stroke": {
@@ -20437,7 +20437,7 @@
       "fill": {
         "type": "image",
         "enabled": true,
-        "url": "images/LoginBG.png",
+        "url": "../images/LoginBG.png",
         "mode": "fill"
       },
       "stroke": {
@@ -21090,7 +21090,7 @@
       "fill": {
         "type": "image",
         "enabled": true,
-        "url": "images/LoginBG.png",
+        "url": "../images/LoginBG.png",
         "mode": "fill"
       },
       "stroke": {
@@ -21819,7 +21819,7 @@
       "fill": {
         "type": "image",
         "enabled": true,
-        "url": "images/LoginBG.png",
+        "url": "../images/LoginBG.png",
         "mode": "fill"
       },
       "stroke": {
