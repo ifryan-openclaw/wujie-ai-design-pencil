@@ -189,7 +189,7 @@
                           "lineHeight": 1.0666666666666667,
                           "textAlign": "center",
                           "textAlignVertical": "middle",
-                          "fontFamily": "SF Pro",
+                          "fontFamily": "Noto Sans SC",
                           "fontSize": 15,
                           "fontWeight": "normal"
                         },
@@ -197,7 +197,7 @@
                           "type": "text",
                           "id": "t2MzM",
                           "name": "Title ",
-                          "fill": "#000000d9",
+                          "fill": "#000000ff",
                           "content": "无界AI",
                           "lineHeight": 1.5,
                           "fontFamily": "Noto Sans SC",
@@ -230,7 +230,7 @@
                           "enabled": false,
                           "fill": "#999999ff",
                           "content": "Subtitle",
-                          "fontFamily": "SF Pro",
+                          "fontFamily": "Noto Sans SC",
                           "fontSize": 11,
                           "fontWeight": "500"
                         },
@@ -243,7 +243,7 @@
                           "enabled": false,
                           "fill": "#999999ff",
                           "content": "— Edited",
-                          "fontFamily": "SF Pro",
+                          "fontFamily": "Noto Sans SC",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -260,6 +260,7 @@
               "clip": true,
               "width": "fill_container",
               "height": "fill_container",
+              "fill": "#f4f4f4ff",
               "cornerRadius": [
                 0,
                 0,
@@ -278,6 +279,7 @@
                   "x": 0,
                   "y": 0,
                   "name": "Frame 46",
+                  "enabled": false,
                   "clip": true,
                   "width": 900,
                   "height": 569,
@@ -291,11 +293,11 @@
                     },
                     "colors": [
                       {
-                        "color": "#333333ff",
+                        "color": "#f5f5f5e6",
                         "position": 0
                       },
                       {
-                        "color": "#111111ff",
+                        "color": "#ebebebe6",
                         "position": 1
                       }
                     ],
@@ -5268,7 +5270,7 @@
                   "type": "text",
                   "id": "RD2ku",
                   "name": "无界 AI MacOS 版",
-                  "fill": "#fafafaff",
+                  "fill": "#000000ff",
                   "textGrowth": "fixed-width",
                   "width": "fill_container",
                   "content": "无界 AI MacOS 版",
@@ -5325,7 +5327,7 @@
                           "type": "text",
                           "id": "V5rNy",
                           "name": "无界 AI",
-                          "fill": "#ffffffff",
+                          "fill": "#000000ff",
                           "textGrowth": "fixed-width",
                           "width": "fill_container",
                           "content": "无界 AI",
@@ -5359,27 +5361,31 @@
                       "alignItems": "center",
                       "children": [
                         {
-                          "type": "path",
-                          "id": "Sa4Su",
-                          "name": "Vector 1",
-                          "opacity": 0.5,
-                          "rotation": -0.000005008956130975318,
-                          "geometry": "M0 0l117.42014 0",
-                          "width": 70.98014831542969,
-                          "height": 0,
-                          "stroke": {
-                            "align": "center",
-                            "thickness": 2,
-                            "cap": "square",
-                            "fill": "#fafafaff"
-                          }
+                          "type": "frame",
+                          "id": "bemI6",
+                          "name": "Frame",
+                          "width": 72,
+                          "height": 12,
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "mpimw",
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 0.5,
+                              "geometry": "M1 4.774l-1 0 0 2 1 0 0-2z m70.98 1l-10-5.774 0 11.547 10-5.773z m-70.98 0l0 1 61.98 0 0-2-61.98 0 0 1z",
+                              "fill": "#000000",
+                              "width": 71.9800033569336,
+                              "height": 11.54699993133545
+                            }
+                          ]
                         },
                         {
                           "type": "text",
                           "id": "usOg8",
                           "name": "拖动无界 AI 到 文件夹以继续安装",
-                          "opacity": 0.5,
-                          "fill": "#fafafaff",
+                          "fill": "#000000ff",
                           "textGrowth": "fixed-width",
                           "width": "fill_container",
                           "content": "拖动无界 AI 到\n文件夹以继续安装",
@@ -5441,7 +5447,7 @@
                           "type": "text",
                           "id": "xYpCz",
                           "name": "Application",
-                          "fill": "#ffffffff",
+                          "fill": "#000000",
                           "textGrowth": "fixed-width",
                           "width": "fill_container",
                           "content": "Application",
@@ -5469,7 +5475,7 @@
               "stroke": {
                 "align": "center",
                 "thickness": 1,
-                "fill": "#fafafaff"
+                "fill": "#00000080"
               }
             },
             {
@@ -5507,8 +5513,7 @@
                       "type": "text",
                       "id": "xBoVR",
                       "name": "若遇到安装问题，可双击右侧图标查看操作指引",
-                      "opacity": 0.5,
-                      "fill": "#fafafaff",
+                      "fill": "#000000ff",
                       "textGrowth": "fixed-width",
                       "width": 307.1083068847656,
                       "content": "若遇到安装问题，可双击右侧图标查看操作指引",
@@ -5569,8 +5574,7 @@
                           "x": 29.328285217285156,
                           "y": 39.328277587890625,
                           "name": "Guide",
-                          "opacity": 0.30000001192092896,
-                          "fill": "#333333ff",
+                          "fill": "#000000ff",
                           "content": "Guide",
                           "lineHeight": 1.4285714285714286,
                           "fontFamily": "Noto Sans SC",
@@ -5583,7 +5587,7 @@
                       "type": "text",
                       "id": "uX4EB",
                       "name": "操作指引",
-                      "fill": "#ffffffff",
+                      "fill": "#000000ff",
                       "textGrowth": "fixed-width",
                       "width": 128,
                       "content": "操作指引",
