@@ -37377,6 +37377,9 @@
         {
           "type": "icon_font",
           "id": "ZmdClose",
+          "layoutPosition": "absolute",
+          "x": 520,
+          "y": 20,
           "name": "Icon / x",
           "width": 20,
           "height": 20,
@@ -38192,6 +38195,9 @@
         {
           "type": "icon_font",
           "id": "ZmdD2Close",
+          "layoutPosition": "absolute",
+          "x": 520,
+          "y": 20,
           "name": "Icon / x",
           "width": 20,
           "height": 20,
